@@ -21,7 +21,7 @@ To start, either download the repository or clone the repository using the comma
 ```
 git clone https://github.com/likoarve/Card-Pairs.git
 ```
-Then, simply open 'index.html' and you are good to go!
+Then, simply open ``index.html`` and you are good to go!
 
 Alternatively, you can simply visit the hosted version. (TBD)
 
