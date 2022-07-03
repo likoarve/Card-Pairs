@@ -2,6 +2,7 @@
 An implementation of the classic 'Card Pairs' game, where a player must flip all cards with their pairs in the board. This is a static web page implementation, created using Javascript and CSS3 animations. Features implemented in this game include:
 - Game instruction modal on startup.
 - Fully 3D animated gameplay.
+- An automatic game timer.
 - Local high score tracking.
 
 Hosted project URL: http://likoarve.com/card-pairs/
