@@ -4,7 +4,7 @@ An implementation of the classic 'Card Pairs' game, where a player must flip all
 - Fully 3D animated gameplay.
 - Local high score tracking.
 
-Hosted project URL: TBD
+Hosted project URL: http://likoarve.com/card-pairs/
 
 ## Getting Started
 
@@ -23,7 +23,7 @@ git clone https://github.com/likoarve/Card-Pairs.git
 ```
 Then, simply open ``index.html`` and you are good to go!
 
-Alternatively, you can simply visit the hosted version. (TBD)
+Alternatively, you can simply visit the [hosted version](http://likoarve.com/card-pairs/).
 
 ## Contacts
 
