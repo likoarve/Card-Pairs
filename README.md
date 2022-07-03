@@ -15,7 +15,7 @@ Hosted project URL: http://likoarve.com/card-pairs/
 * Javascript and JQuery v.3.6.0
 
 ### Requirements
-Any modern browser that supports CSS3.
+Any modern browser that supports CSS3. This game is best experienced in desktop.
 
 ## Running the Application
 To start, either download the repository or clone the repository using the command below.
